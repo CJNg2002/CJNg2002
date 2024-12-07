@@ -49,12 +49,11 @@
 ![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?logo=microsoft&logoColor=white)
 ![Snap!](https://img.shields.io/badge/-Snap!-0078D4?logo=snapchat&logoColor=white)
 
-<div align="center">
-  ## 📈 GitHub Stats
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CJNg2002&show_icons=true&theme=dark)
-  ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=CJNg2002&theme=dark)
-  ![Profile Views](https://komarev.com/ghpvc/?username=CJNg2002&color=blueviolet&style=flat)
-</div>
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CJNg2002&show_icons=true&theme=dark)
+![GitHub Streak Stats](https://streak-stats.demolab.com/?user=CJNg2002&theme=dark)
+![Profile Views](https://komarev.com/ghpvc/?username=CJNg2002&color=blueviolet&style=flat)
 
 <!--
 **CJNg2002/CJNg2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
