@@ -14,15 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<svg width="100%" height="auto">
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" style="fill:lime; font-size:50px; animation: glow 1.5s infinite;">
-    Cybersecurity Enthusiast
-  </text>
-</svg>
-<style>
-  @keyframes glow {
-    0% { text-shadow: 0 0 10px lime; }
-    50% { text-shadow: 0 0 20px lime; }
-    100% { text-shadow: 0 0 10px lime; }
-  }
-</style>
+
