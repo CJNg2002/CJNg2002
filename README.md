@@ -4,12 +4,14 @@
 
 # Hi there, I'm CJ 👋
 🎓 Computer Science Student Specializing in Cybersecurity
+
 📍 Studying at Asia Pacific University
+
 🔑 Passionate about Capture the Flag (CTF), Ethical Hacking and Blockchain
 
 ## 📞 Contact
 
-- 📧 **Email**: (mailto:cjng2002@gmail.com)
+- 📧 **Email**: (cjng2002@gmail.com)
 - 🔗 **LinkedIn**: (https://www.linkedin.com/in/ng-chun-jhen-47853a248/)
 
 
