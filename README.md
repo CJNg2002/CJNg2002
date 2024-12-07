@@ -7,6 +7,12 @@
 📍 Studying at Asia Pacific University
 🔑 Passionate about Capture the Flag (CTF), Ethical Hacking and Blockchain
 
+## 📞 Contact
+
+- 📧 **Email**: [your-email@gmail.com](mailto:cjng2002@gmail.com)
+- 🔗 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/ng-chun-jhen-47853a248/)
+
+
 ## 🛠️ Tech Stack
 
 ### Programming Languages
