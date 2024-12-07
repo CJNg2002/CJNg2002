@@ -58,11 +58,12 @@
 ![Snap!](https://img.shields.io/badge/-Snap!-0078D4?logo=snapchat&logoColor=white)
 
 ## 📜 Certifications
+
+
+## 🥇 Competition/Events
 ### APUBCC Sparkathon 2023
 ### FORENSIC GAME 2024
 ### Digital Forensic Showdown 2024
-
-## 🥇 Competition/Events
 
 ## 📊 GitHub Stats
 
