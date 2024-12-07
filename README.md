@@ -57,6 +57,13 @@
 ![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?logo=microsoft&logoColor=white)
 ![Snap!](https://img.shields.io/badge/-Snap!-0078D4?logo=snapchat&logoColor=white)
 
+## 📜 Certifications
+### APUBCC Sparkathon 2023
+### FORENSIC GAME 2024
+### Digital Forensic Showdown 2024
+
+## 🥇 Competition/Events
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CJNg2002&show_icons=true&theme=dark)
