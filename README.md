@@ -9,8 +9,8 @@
 
 ## 📞 Contact
 
-- 📧 **Email**: [your-email@gmail.com](mailto:cjng2002@gmail.com)
-- 🔗 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/ng-chun-jhen-47853a248/)
+- 📧 **Email**: (mailto:cjng2002@gmail.com)
+- 🔗 **LinkedIn**: (https://www.linkedin.com/in/ng-chun-jhen-47853a248/)
 
 
 ## 🛠️ Tech Stack
