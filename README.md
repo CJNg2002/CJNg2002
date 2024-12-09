@@ -26,6 +26,7 @@
 
 ### Databases
 ![Postgres](https://img.shields.io/badge/-Postgres-336791?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
 ### Design & Development Tools
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
@@ -50,12 +51,6 @@
 
 ### Networking Tools
 ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?logo=cisco&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-
-
-
 
 ### Other Tools
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00C58E?logo=openai&logoColor=white)
