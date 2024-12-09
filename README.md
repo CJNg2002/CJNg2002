@@ -16,7 +16,7 @@
 
 
 ## 🛠️ Tech Stack
-
+F
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
@@ -67,8 +67,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CJNg2002&show_icons=true&theme=dark)
-![GitHub Streak Stats](https://streak-stats.demolab.com/?user=CJNg2002&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CJNg2002&show_icons=true&theme=radical)
+![GitHub Streak Stats](https://streak-stats.demolab.com/?user=CJNg2002&theme=tokyonight)
 ![Profile Views](https://komarev.com/ghpvc/?username=CJNg2002&color=blueviolet&style=flat)
 
 <!--
